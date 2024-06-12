@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my final proyect [En Tu Barrio](https://github.com/Jonayj0/proyecto-final-entubarrio)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently strengthening my knowledge in programming and looking for new technologies
 
 - 🎓 Full Stack Developer in 4Geeks Academy.
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jonayj0](https://github.com/Jonayj0)
 
-- 📝 I starting write articles on instagram like: [@jonay_online](@jonay_online)
+- 📝 I starting write articles on instagram like: [@jonay_online](jonay_online)
 
 - 💬 Ask me about **React, Python, JavaScript, HTML, CSS**
 
