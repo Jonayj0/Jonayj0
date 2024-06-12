@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jonayj0](https://github.com/Jonayj0)
 
-- 📝 I starting write articles on [@jonay_online](@jonay_online)
+- 📝 I starting write articles on instagram like: [@jonay_online](@jonay_online)
 
 - 💬 Ask me about **React, Python, JavaScript, HTML, CSS**
 
