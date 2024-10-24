@@ -1,17 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Jonai Bolaños</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on my final proyect [En Tu Barrio](https://github.com/Jonayj0/proyecto-final-entubarrio)
+- 🔭 You can see my final project [En Tu Barrio] (https://github.com/Jonayj0/proyecto-final-entubarrio)
 
-- 🌱 I’m currently strengthening my knowledge in programming and looking for new technologies
+- 🌱 I continue to strengthen my knowledge in programming and look for new technologies. 
 
-- 🎓 Full Stack Developer in 4Geeks Academy.
+- 💻 I am currently developing a personal project [Good Print] you can see it in my repository [https://github.com/Jonayj0/Good-Print]
 
-- 🤝 I’m looking for create a personal proyect [El Mundo En Bandeja](https://www.elmundoenbandeja.com/)
+- 🎓 Full Stack Developer at 4Geeks Academy.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jonayj0](https://github.com/Jonayj0)
+- 🤝 I have developed a personal project [El Mundo En Bandeja](https://www.elmundoenbandeja.com/)
 
-- 📝 I starting write articles on instagram like: [@jonay_online](@jonay_online)
+- 👨‍💻 All my projects are available at [https://github.com/Jonayj0](https://github.com/Jonayj0)
+
+- 📝 I'm starting to write articles on Instagram like: [@jonay_online](@jonay_online)
 
 - 💬 Ask me about **React, Python, JavaScript, HTML, CSS**
 
