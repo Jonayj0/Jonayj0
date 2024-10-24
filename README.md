@@ -5,7 +5,7 @@
 
 - 🌱 I continue to strengthen my knowledge in programming and look for new technologies. 
 
-- 💻 I am currently developing a personal project [Good Print] you can see it in my repository [https://github.com/Jonayj0/Good-Print]
+- 💻 I am currently developing a personal project [Good Print] [https://github.com/Jonayj0/Good-Print]
 
 - 🎓 Full Stack Developer at 4Geeks Academy.
 
